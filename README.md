@@ -22,7 +22,7 @@ I'm **Mahmood**, a **Dual Student at Deutsche Telekom AG** and a **Software Engi
 - Learning new **technologies and frameworks**
 
 ## 📈 GitHub Stats
-![Mahmood's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoodalaaa&show_icons=true&theme=transparent)
+![Mahmood's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoodalaaa)
 
 ## 📫 Connect with me
 - 🌐 Website: https://mahmoodalasaad.de
