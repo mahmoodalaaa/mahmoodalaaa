@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a **Dual Student at Deutsche Telekom AG** studying **Software Engineering at FHDW**.
+I'm **Mahmood**, a **Dual Student at Deutsche Telekom AG** and a **Software Engineering student at FHDW**.
 
 ## 👨‍💻 About Me
 - 🎓 Dual student at **Deutsche Telekom AG**
@@ -16,17 +16,16 @@ I'm a **Dual Student at Deutsche Telekom AG** studying **Software Engineering at
 - SQL
 - REST APIs
 
-*(currently learning more every day)*
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoodalaaa&show_icons=true)
-
 ## 🌱 Current Focus
 - Improving my **software architecture skills**
 - Building **clean and maintainable code**
 - Learning new **technologies and frameworks**
 
+## 📈 GitHub Stats
+![Mahmood's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoodalaaa&show_icons=true)
+
 ## 📫 Connect with me
+- 🌐 Website: https://mahmoodalasaad.de
 - GitHub: https://github.com/mahmoodalaaa
 
 <!--
